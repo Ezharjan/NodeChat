@@ -27,7 +27,7 @@ How to run
 <br>
 
 
-[本项目参考教程](http://www.cnblogs.com/Wayou/p/nodeChat_built_with_nodejs_socket.html)
+[本项目参考教程](http://www.cnblogs.com/Wayou/p/hichat_built_with_nodejs_socket.html)
 
 
 
